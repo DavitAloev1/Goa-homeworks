@@ -9,33 +9,3 @@ hobby_data = "about hobby.my hobby is practicing on myself XD reading books abou
 parents_data = "my parents name is Nato and Tazo their last name is Gioshvili and ALoevi "
 parents_age_data = "my mom Nato is 44 years old and my father Tazo is 40 years old"
 city_data = "i live in tbilisi  thats all  "
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-print( to_the_point + " " + name + " " + last_name + to_the_point_1 + age + to_the_point_2 + hobby_data + parents_data + parents_age_data + city_data)
